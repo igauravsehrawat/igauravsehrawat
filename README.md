@@ -7,10 +7,10 @@ Full Stack Developer with primary focus on "All Things JavaScript". Sometimes da
 But most important thing is to stay sharp on latest technologies.
 
 ### Experience
-I loves open source and giving tech talks. Have worked with wide range of startups, starting his career in 
+I loves open source and giving tech talks. Have worked with wide range of startups, starting career in 
 1. Fintech, 
-2. then making compilers and language at another startup, 
-3. moving on to making chatbots and 
+2. Then making compilers and language at another startup, 
+3. Moving on to making chatbots and 
 4. Now working to disrupt the payments industry at Verifone/Dimebox.
 
 One thing has been common in all that is `JavaScript/Typescript.`
