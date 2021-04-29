@@ -7,7 +7,7 @@ Full Stack Developer with primary focus on "All Things JavaScript". Sometimes da
 But most important thing is to stay sharp on latest technologies.
 
 ### Experience
-I love open source and giving tech talks. Have worked with wide range of startups, starting career in 
+I love open source and giving tech talks. Have worked with wide range of startups over 6+ years, starting career in 
 1. Fintech, 
 2. Then making compilers and language at another startup, 
 3. Moving on to making chatbots and 
