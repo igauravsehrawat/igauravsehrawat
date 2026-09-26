@@ -1,67 +1,49 @@
+# 👋 Hi, I'm Gaurav Sehrawat
+### Tech Lead | Solution Architect | Digital Commerce Specialist
 
-####  Problem solver. Open source contributor.
+> *"Designing scalable systems, leading high-performing engineering teams, and bridging the gap between complex business requirements and elegant technical solutions."*
 
-### About Me
-Full Stack Developer with primary focus on "All Things JavaScript". Sometimes dabbles in Python for AI/ML work from time to time.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
-But most important thing is to stay sharp on latest technologies.
+---
 
-### Experience
-I love open source and giving tech talks. Have worked with wide range of startups over 6+ years, starting career in 
-1. Fintech, 
-2. Then making compilers and language at another startup, 
-3. Moving on to making chatbots and 
-4. Now working to disrupt the payments industry at E-Commerce Payments Startup(Acquired).
+## 🏗️ About Me
+I am a seasoned technology leader with a strong background in **Solution Architecture** and **Tech Leadership**. I specialize in designing resilient, scalable digital commerce platforms and guiding engineering teams to deliver high-impact software. 
 
-One thing has been common in all that is `JavaScript/Typescript.`
+My focus is on:
+- 🎯 **System Design & Architecture:** Microservices, event-driven architectures, and cloud-native solutions.
+- 🚀 **Technical Leadership:** Mentoring developers, establishing engineering best practices, and driving agile delivery.
+- 🤝 **Stakeholder Alignment:** Translating complex business goals into actionable technical roadmaps (Customer Discovery, Domain-Driven Design).
 
-<h2 align="center">Technology Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript%20-%2343853D.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mocha%20-%2343853D.svg?&style=for-the-badge&logo=mocha&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/chai%20-%2343853D.svg?&style=for-the-badge&logo=chai&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jest%20-%2343853D.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/istanbul%20-%2343853D.svg?&style=for-the-badge&logo=istanbul&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/postgres%20-%231572B6.svg?&style=for-the-badge&logo=postgres&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker-comopose%20-%231572B6.svg?&style=for-the-badge&logo=docker-compose&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
-</p>
+---
 
-<h2 align="center">Some Stats </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=igauravsehrawat&layout=compact&hide=html&theme=jolly" alt="igauravsehrawat" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+## 🛠️ Tech Stack & Expertise
+| Category | Technologies & Tools |
+|----------|----------------------|
+| **Languages** | Java, TypeScript, Python, Go, SQL |
+| **Architecture** | Microservices, Event-Driven, DDD, REST, GraphQL |
+| **Cloud & DevOps** | AWS, Kubernetes, Docker, Terraform, CI/CD (GitHub Actions, GitLab) |
+| **Data & Messaging** | PostgreSQL, Redis, Kafka, RabbitMQ, Elasticsearch |
+| **Leadership** | Agile/Scrum, Technical Strategy, Code Reviews, Mentorship |
 
-<h2 align="center">Trails On Internet</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/igauravsehrawat"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/root3d"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:igauravsehrawat@gmail.com?subject=Hello%20Gaurav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/igauravsehrawat/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+---
 
+## 📈 Architecture & Design Philosophy
+1. **Simplicity First:** Avoid over-engineering. Choose the simplest solution that meets current and near-future requirements.
+2. **Observability by Default:** Systems must be measurable. Logging, metrics, and tracing are non-negotiable.
+3. **Fail Gracefully:** Design for failure. Implement circuit breakers, retries, and dead-letter queues.
+4. **Empowered Teams:** Architecture is a team sport. I foster a culture of collaborative design (e.g., Architecture Decision Records - ADRs) and continuous learning.
 
-<!--
-**igauravsehrawat/igauravsehrawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📬 Let's Connect
+I'm always open to discussing **system design, technical leadership, and innovative architecture**. Whether you're looking for a collaborator, a speaker, or a tech leader for your next big challenge, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📧 **Email:** [Email](mailto:hey@igauravsehrawat.nl)
+- 💼 **LinkedIn:** [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/igauravsehrawat/))
 
-- ⚡ Fun fact: ...
--->
+---
+
+> 💡 *"Any sufficiently advanced technology is indistinguishable from magic."* – Arthur C. Clarke
